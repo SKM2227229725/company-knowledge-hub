@@ -19,7 +19,7 @@ KnowledgeHub AI is a centralized knowledge management system that helps organiza
 - Categories & Tags
 - File Attachments (PDF, DOCX, PPTX)
 - Version History
-- Draft & Publish Workflow
+
 
 ### 🔍 Smart Search
 - Full-text Search
@@ -72,9 +72,7 @@ KnowledgeHub AI is a centralized knowledge management system that helps organiza
 ### DevOps
 - Docker
 - Redis
-- Celery
-- Nginx
-
+  
 ---
 
 ## 📁 Project Structure
