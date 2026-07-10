@@ -130,4 +130,4 @@ knowledgehub-ai/
 
 Shailesh Kumar
 
-Computer Science Engineering Student | Python Full Stack Developer
+Computer Science Engineering Student  REC Sonbhadra  | Python Full Stack Developer
