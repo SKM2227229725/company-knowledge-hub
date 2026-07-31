@@ -18,7 +18,7 @@ KnowledgeHub AI is a centralized knowledge management system that helps organiza
 - Rich Text / Markdown Editor
 - Categories & Tags
 - File Attachments (PDF, DOCX, PPTX)
-- Version History
+- Version History and the track the  History 
 
 
 ### 🔍 Smart Search
