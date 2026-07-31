@@ -70,8 +70,8 @@ KnowledgeHub AI is a centralized knowledge management system that helps organiza
 - FAISS
 
 ### DevOps
-- Docker
-- Redis
+- Docker  & Radish 
+  
   
 ---
 
