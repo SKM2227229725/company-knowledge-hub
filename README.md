@@ -25,7 +25,6 @@ KnowledgeHub AI is a centralized knowledge management system that helps organiza
 - Full-text Search
 - Tag-based Search
 - Department-wise Search
-- Advanced Filters
 - Recently Viewed Documents
 - Bookmarks
 
