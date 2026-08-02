@@ -14,7 +14,7 @@ KnowledgeHub AI is a centralized knowledge management system that helps organiza
 - User & Department Management
 
 ### 📄 Document Management
-- Create, Edit & Delete Documents
+- Create, Edit  Documents
 - Rich Text / Markdown Editor
 - Categories & Tags
 - File Attachments (PDF, DOCX, PPTX)
