@@ -1,8 +1,10 @@
 # 🚀 KnowledgeHub AI
 
-> An AI-powered Enterprise Knowledge Management Platform built with Django, React, and PostgreSQL.
+> An AI-powered enterprise knowledge platform built with **Django, React, and PostgreSQL**.
 
-KnowledgeHub AI is a centralized knowledge management system that helps organizations securely store, organize, search, and collaborate on internal documentation. It provides role-based access control, advanced document search, version history, and AI-powered contextual question answering using Retrieval-Augmented Generation (RAG).
+**KnowledgeHub AI** is a secure, centralized platform designed to help organizations manage and access internal knowledge efficiently. It enables teams to **create, organize, search, and collaborate on documents** while maintaining granular access through **Role-Based Access Control (RBAC)**.
+
+The platform combines **advanced document search, version control, and AI-powered contextual Q&A using Retrieval-Augmented Generation (RAG)**, allowing users to ask questions in natural language and receive relevant answers from their organization's knowledge base.
 
 ---
 
